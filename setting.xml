@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.jenkins-ci.plugins</groupId>
+  <artifactId>artifactory</artifactId>
+  <version>3.18.x-SNAPSHOT</version>
+  <versioning>
+    <latest>3.18.x-SNAPSHOT</latest>
+    <versions>
+      <version>3.13.x-SNAPSHOT</version>
+      <version>3.14.x-SNAPSHOT</version>
+      <version>3.15.x-SNAPSHOT</version>
+      <version>3.16.x-SNAPSHOT</version>
+      <version>3.17.x-SNAPSHOT</version>
+      <version>3.18.x-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240327103520</lastUpdated>
+  </versioning>
+</metadata>
